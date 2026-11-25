@@ -1,0 +1,16 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+# Android
+.gradle/
+**/local.properties
+**/key.properties
+**/*.keystore
+**/*.jks
+# Firebase private config
+android/app/google-services.json
